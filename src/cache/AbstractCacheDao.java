@@ -13,6 +13,7 @@ implements IDao<EntityType, IdType>
 	 * en memoria.
 	 */
 	protected Map<IdType, EntityType> cache;
+	int cantPenes = 2;
 
 
 	public AbstractCacheDao() {
