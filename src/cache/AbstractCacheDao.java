@@ -15,6 +15,7 @@ implements IDao<EntityType, IdType>
 	protected Map<IdType, EntityType> cache;
 	// La cantidad que le cabe angulo
 	int cantPenes = 2;
+	int calleseLaGeta = 4;
 
 
 	public AbstractCacheDao() {
