@@ -14,8 +14,7 @@ implements IDao<EntityType, IdType>
 	 */
 	protected Map<IdType, EntityType> cache;
 
-	public int popo;
-	public String chichi;
+	puniiajjajs
 
 	public AbstractCacheDao() {
 		super();
